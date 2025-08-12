@@ -1,1 +1,1 @@
-Test!
+Este é um projeto de clone da página inicial do Google, criado para praticar HTML, CSS e JavaScript. O objetivo é replicar a interface básica do Google de forma funcional e estilizada, focando no aprendizado e aprimoramento das habilidades front-end.
